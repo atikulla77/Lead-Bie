@@ -95,7 +95,7 @@ const Contact = () => {
                         autoComplete="off"
                         required
                         placeholder=""
-                        className="inputStyleIng  border-[2px] border-[#03BFFF] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#03BFFF] block w-full p-2.5 dark:!bg-transparent dark:border-[#03BFFF] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
+                        className="inputStyleIng  border-[2px] border-[#00000042] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#00000042] block w-full p-2.5 dark:!bg-transparent dark:border-[#00000042] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
                       />
                       <span className="inputStyleIngText text-sm text-black text-opacity-80 bg-[#fff] absolute left-2 top-3 px-1 transition duration-200 input-text cursor-text">
                         Your Name
@@ -111,7 +111,7 @@ const Contact = () => {
                         autoComplete="off"
                         required
                         placeholder=""
-                        className="inputStyleIng  border-[2px] border-[#03BFFF] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#03BFFF] block w-full p-2.5 dark:!bg-transparent dark:border-[#03BFFF] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
+                        className="inputStyleIng  border-[2px] border-[#00000042] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#00000042] block w-full p-2.5 dark:!bg-transparent dark:border-[#00000042] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
                       />
                       <span className="inputStyleIngText text-sm text-black text-opacity-80 bg-[#fff] absolute left-2 top-3 px-1 transition duration-200 input-text cursor-text">
                         Email address
@@ -129,7 +129,7 @@ const Contact = () => {
                       required
                       rows="13"
                       placeholder=""
-                      className="inputStyleIng  border-[2px] border-[#03BFFF] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#03BFFF] sm6:block hidden w-full p-2.5 dark:!bg-transparent dark:border-[#03BFFF] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
+                      className="inputStyleIng  border-[2px] border-[#00000042] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#00000042] sm6:block hidden w-full p-2.5 dark:!bg-transparent dark:border-[#00000042] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
                     />
                     <textarea
                       type="text"
@@ -139,7 +139,7 @@ const Contact = () => {
                       required
                       rows="10"
                       placeholder=""
-                      className="inputStyleIng  border-[2px] border-[#03BFFF] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#03BFFF] sm6:hidden block w-full p-2.5 dark:!bg-transparent dark:border-[#03BFFF] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
+                      className="inputStyleIng  border-[2px] border-[#00000042] text-black text-sm rounded-lg focus:ring-[#03BFFF] focus:border-[#00000042] sm6:hidden block w-full p-2.5 dark:!bg-transparent dark:border-[#00000042] placeholder-[#pffffff9c] dark:focus:ring-[#03BFFF] dark:focus:border-[#03BFFF] font-[500] outline-none"
                     />
                     <span className="inputStyleIngText text-sm text-black text-opacity-80 bg-[#fff] absolute left-2 top-3 px-1 transition duration-200 input-text cursor-text">
                       Your message

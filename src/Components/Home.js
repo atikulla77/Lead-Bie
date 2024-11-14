@@ -72,7 +72,7 @@ function Home() {
 
         <iframe
           className="mx-auto md2:!w-[80%] !w-[98%] md2:rounded-[25px] rounded-[15px] sm5:border-[3px] border-[2px] border-[#fff] mb-[40px]"
-          src="https://www.youtube.com/embed/tEvdUSyF_5I?si=N8-BRGSF-a33YHb0"
+          src="https://www.youtube.com/embed/vXR_3uzRsVI?si=xc-Cm4zb7fsRQlpG"
           title="YouTube video player"
           frameBorder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

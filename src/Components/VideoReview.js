@@ -8,7 +8,7 @@ function VideoReview() {
           <div className="sm:w-[576px] w-[96%] sm:h-[825px] h-[] border-[2px] border-[#dae5ed] bg-white rounded-[15px] overflow-hidden mx-auto mb-[1rem]" data-aos="fade-right">
             <iframe
               className="!w-[100%] sm5:mb-[40px] mb-[15px]"
-              src="https://www.youtube.com/embed/tEvdUSyF_5I?si=N8-BRGSF-a33YHb0"
+              src="https://www.youtube.com/embed/vXR_3uzRsVI?si=xc-Cm4zb7fsRQlpG"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -60,7 +60,7 @@ function VideoReview() {
           <div className="sm:w-[576px] w-[96%] sm:h-[825px] h-[] border-[2px] border-[#dae5ed] bg-white rounded-[15px] overflow-hidden mx-auto mb-[1rem]" data-aos="fade-right">
             <iframe
               className="!w-[100%] sm5:mb-[40px] mb-[15px]"
-              src="https://www.youtube.com/embed/tEvdUSyF_5I?si=N8-BRGSF-a33YHb0"
+              src="https://www.youtube.com/embed/vXR_3uzRsVI?si=xc-Cm4zb7fsRQlpG"
               title="YouTube video player"
               frameBorder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
