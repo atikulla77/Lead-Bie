@@ -19,7 +19,7 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   metadataBase: new URL("http://localhost:3000"),
   title: {
-    default: "PentaBite — Full-Service Digital Agency",
+    default: "LeadBie — Cold Email Agency",
     template: "%s"
   },
   description:

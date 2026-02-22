@@ -9,7 +9,7 @@ export default function HomePage() {
 }
 
 export const metadata = {
-  title: "PentaBite — FullService Digital Agency in Dhaka",
+    title: "LeadBie — Cold Email Agency",
   description:
     "Strategy, design, and development that deliver measurable business outcomes.",
 };
